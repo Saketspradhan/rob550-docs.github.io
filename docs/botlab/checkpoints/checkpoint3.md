@@ -29,7 +29,7 @@ astar_test can be used to test the performance of your A* planner.
 
 {: .required_for_report } 
 1) Provide a figure showing the planned path in an environment of your creation with the actual path driven by your robot overlayed on top. <br>
-<br> 2) Using astar_test_files, report statistics on your path planning execution times for each of the example problems in the data/astar folder -- you simply need to run astar_test_files after implementing your algorithm. If your algorithm is optimal and fast, great. If not please discuss possible reasons and strategies for improvement.
+<br> 2) Using build/astar_test, report statistics on your path planning execution times for each of the example problems in that folder -- you simply need to run files after implementing your algorithm (you can use the argument -h for help.). If your algorithm is optimal and fast, great. If not please discuss possible reasons and strategies for improvement.
 
 ## Task 3.3 Map Exploration
 
