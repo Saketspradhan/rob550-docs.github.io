@@ -34,10 +34,10 @@ Error in pose after mapping:
 Map quality: [+100, +50, +25] for [Excellent, Good, OK] quality
 
 Timed run:
-- 100 points: TBD
-- 75 points: TBD
-- 50 points: TBD
-- 25 points: Finish
+- 100 points: 50s
+- 75 points: 80s
+- 50 points: 100s
+- 25 points: 200s
 
 The thresholds will be determined by the actual times on the first day of competition.
 
